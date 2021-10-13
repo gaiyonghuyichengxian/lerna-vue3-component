@@ -1,0 +1,10 @@
+{
+  "name": "@xinbear/component",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "xinbear <843048077@qq.com>",
+  "peerDependencies": {
+    "vue": "^3.2.20",
+    "element-plus": "^1.1.0-beta.20"
+  }
+}

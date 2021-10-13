@@ -1,0 +1,29 @@
+# .stylelintignore
+# 旧的不需打包的样式库
+*.min.css
+# src/assets/
+
+# 其他类型文件
+*.js
+*.ts
+*.jpg
+*.png
+*.webp
+*.eot
+*.ttf
+*.woff
+*.woff2
+*.json
+*.css
+*.html
+*.svg
+*.gif
+
+# npm依赖安装目录
+node_modules
+
+# 测试和打包目录
+/test/
+/dist/
+
+/public/

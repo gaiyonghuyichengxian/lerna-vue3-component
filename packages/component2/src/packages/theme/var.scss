@@ -1,0 +1,58 @@
+// color
+$black: #000 !default;
+$white: #fff !default;
+
+$gray-1: #0d3452 !default;
+$gray-2: #2e3133 !default;
+$gray-3: #5c6266 !default;
+$gray-4: #8a9299 !default;
+$gray-5: #bdc1c4 !default;
+$gray-6: #e8ebed !default;
+$gray-7: #f5f7f7 !default;
+$gray-8: #f7faf9 !default;
+$gray-9: rgba(46, 49, 51, 0.35) !default;
+$gray-10: rgba(46, 49, 51, 0.25) !default;
+
+$blue-1: #004b78 !default;
+$blue-2: #0d83bd !default;
+
+$orange-1: #ffb32e !default;
+
+$red-1: #df4e4e !default;
+
+$green-1: #3ead95 !default;
+$green-2: #4cbaa2 !default;
+$green-3: #5ad5ba !default;
+$green-4: #b6e8dd !default;
+$green-5: #e6f0ee !default;
+$green-6: #f0f5f4 !default;
+
+$primary-color: $green-2 !default;
+$warning-color: $orange-1 !default;
+$danger-color: $red-1 !default;
+$info-color: $gray-1 !default;
+
+$font-base: 2px !default;
+$font-size-xl: 24px !default;
+$font-size-lg: 20px !default;
+$font-size-md: 16px !default;
+$font-size-sm: 14px !default;
+$font-size-xs: 12px !default;
+
+$margin-base: 4px !default;
+$margin-xl: 24px !default;
+$margin-lg: 16px !default;
+$margin-md: 12px !default;
+$margin-sm: 8px !default;
+$margin-xs: 4px !default;
+
+$padding-base: 4px !default;
+$padding-xl: 24px !default;
+$padding-lg: 16px !default;
+$padding-md: 12px !default;
+$padding-sm: 8px !default;
+$padding-xs: 4px !default;
+
+$radius-base: 4px !default;
+$radius-size-lg: 8px !default;
+$radius-size-sm: 4px !default;

@@ -1,0 +1,17 @@
+{
+  "name": "xinbear",
+  "private": true,
+  "scripts": {
+    "dev:component": "lerna run dev --scope @xinbear/component --stream",
+    "dev:docs": "lerna run dev --scope @xinbear/docs --stream",
+    "build:component": "lerna run build:rollup --scope @xinbear/component --stream",
+    "link": "lerna link"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "element-plus": "^1.1.0-beta.20",
+    "vue": "^3.2.20"
+  }
+}

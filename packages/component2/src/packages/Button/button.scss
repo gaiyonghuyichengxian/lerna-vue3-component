@@ -1,0 +1,15 @@
+@import "../theme/mixins.scss";
+
+$name: button;
+
+@include b(button) {
+  background: #ccc;
+
+  @include b(button-test) {
+    color: $primary-color;
+  }
+
+  .xb-#{$name}-test2 {
+    color: $primary-color;
+  }
+}

@@ -1,0 +1,33 @@
+// @import "./markdown.scss";
+
+div {
+  box-sizing: border-box;
+}
+
+.main-cnt {
+  padding: 20px;
+}
+
+.flex-center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-w-space-between {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.flex-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.flex-h-center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
